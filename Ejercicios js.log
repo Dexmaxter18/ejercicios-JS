@@ -1,0 +1,85 @@
+1.  Programa que pida dos números y que nos diga cual es el mayor,
+	el menor y si son uguales.
+
+2.	Al programa anterior: Si los números no son un número o son menores
+	o iguales a cero, nos los vuelva a pedir.
+	
+3.	Utilizando un bucle, mostrar la sluma y la media de los números
+	introducidos hasta introducir un número negativo y ahí mostrar el
+	resultado.
+	
+4.	Hacer un programa que muestre todos los números entre dos números
+	introducidos por el usuario.
+	
+5.	Mostrar todos los números impares que hay entre dos números
+	introducidos por el usuario.
+	
+6.	Programa que muestre todos los números divisores de un número
+	que mete en el prompt.
+	
+7.	Programa que nos diga si un número es par o impar:
+     ~Ventana prompt.
+	 ~si no es válido que nos pida de nuevo el número.
+
+8.	Mostrar la tabla de multiplicar de un número introducido por pantalla.
+
+9.	Calculadora:
+	 ~Pida dos números por pantalla.
+	 ~Si metemos uno mal que nos los vuelva a pedir.
+	 ~En el cuerpo de la página, en una alerta y por consola mostrar el
+	  resultado de la suma, resta, multiplicación y división de las sifras.
+	 ~Refactorizar el código para encapsularlo todo en funciones reutilizables.
+
+10.	Programa que pida 6 números por pantalla y los meta en un array.
+
+11. Mostrar el array anterior entero (todos sus elementos) en el cuerpo
+	de la página y en la consola (usando funciones).
+	
+12.	Ordenar el array anterior y mostrarlo.
+
+13.	Invertir el orden del array anterior y mostrarlo.
+
+14.	Mostrar cuantos elementos tiene el array anterior.
+
+15.	Búsqueda de un valor introducido por el usuario, que nos diga si lo
+	encuentra en el array o no.
+	
+16.	Ejercicio con DOM y eventos:
+	~formulario campos: Nombre, apellido y edad.
+	~Botón de inciar el formulario: eventos submit.
+	~Mostrar datos por pantalla.
+	~Validación del formulario para que no metan datos vacíos.
+	 
+17.	Crea un formulario para guardar nombres de personas en el localstorage y
+	muéstralos por pantalla en una lista de html.
+	
+18.	En la lista anterior añade un botón para poder eliminar elementos del
+	localstorage.
+	
+19. Haz una petición ajax a un api rest pública y muestra un listado de datos.
+
+20.	Muestra la fecha de hoy y un número aleatorio del 1 al 120 en la consola.
+
+21.	Maqueta una web parecida a esta:C:\Users\Diego\Desktop\repaso JS\Ejercicios.	
+
+22. Haz un slider de imágenes funcional (busca librerias si es necesario).
+
+23.	Muestra un listado de artículos almacenados en un json y muéstralo
+	dinamicamente. (json con mas json dentro).
+	
+24. Haz un cambiador de tamas (cambiar colores y fondos de la web al hacer
+	click en los botones flotantes laterales).
+	
+25. Al final de la web habrá un botón para subir al principio de la web haciendo
+	una animación en el scroll, automático y suavizado.
+	
+26.	Hacer un formulario que nos permita guardar en el localstorage el nombre y
+	los apellidos del usuario que esté en la web y en el caso de que exita la
+	"sesión" mostrarla.
+	
+27. En la sección "sobre mi" meter un acordeón.
+
+28. Sección "reloj" en la que habrá un reloj dinámico con javascript (o usando
+	el objeto date de js o libreria externa).
+	
+29. Sección de contacto con formulario y validación.
